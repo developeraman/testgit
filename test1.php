@@ -3,6 +3,10 @@
 echo "abcsdfsdafsdafsdfasfasfasf";
 echo "aman";
 echo "lakhbir";
+<<<<<<< HEAD
+=======
+echo "aman branch";
+>>>>>>> 554ecb23dd0ba67f3e8334b5646c5fa6a97a0561
 exit;
 $firstarray = array('sss'=>'abc','ddd'=>'bcd','bbb'=>'ced');
 $secondarray = array('sss'=>'45','bbb'=>'54','ddd'=>'54');
