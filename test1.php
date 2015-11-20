@@ -1,6 +1,9 @@
 <img src="Img_1447769196_350_4.emf" height="300" width="300">
 <?php 
-echo "hanish";
+echo "abcsdfsdafsdafsdfasfasfasf";
+echo "aman";
+echo "lakhbir";
+echo "aman branch";
 exit;
 $firstarray = array('sss'=>'abc','ddd'=>'bcd','bbb'=>'ced');
 $secondarray = array('sss'=>'45','bbb'=>'54','ddd'=>'54');
