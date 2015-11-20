@@ -2,6 +2,7 @@
 <?php 
 echo "abcsdfsdafsdafsdfasfasfasf";
 echo "aman";
+echo "lakhbir";
 exit;
 $firstarray = array('sss'=>'abc','ddd'=>'bcd','bbb'=>'ced');
 $secondarray = array('sss'=>'45','bbb'=>'54','ddd'=>'54');
